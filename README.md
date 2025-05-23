@@ -14,7 +14,14 @@
 - **DevOps & industrialisation** : Docker, Traefik, CI/CD (GitHub Actions, Jenkins)
 - **Développement web moderne** : Astro, Nuxt, Tailwind, Netlify, CMS headless (Decap, Storyblok)
 - **IA & Automatisation** : intégration de LLMs (RAG, agents, Groq), outils AI-first
+  
+---
 
+## 🛠 En ce moment...
+
+- 💻 Je développe des **sites internet sur-mesure en auto-entrepreneur**, principalement pour les professions libérales et artisans
+- 📐 Je construis un **starter Astro** réutilisable avec CMS intégré pour mes clients
+- 📚 Je donne également des **cours de mathématiques** niveau collège à Bac+2 depuis plus de 9 ans
 ---
 
 ## 🧠 Ce que je construis
@@ -27,14 +34,6 @@ Agrégateur de séances de cinéma à Toulouse, avec scraper Python et affichage
 
 ### 📄 [Optimise Ton CV](https://optimise-ton-cv.fr)
 Outil IA pour analyser, optimiser et adapter ton CV à une offre avec score de matching ATS, bullet points recommandés et version optimisée.
-
----
-
-## 🧰 Starter kits & templates
-
-- `astro-starter-vitrine` : template Astro + Tailwind + CMS Decap pour sites pros (avocats, artisans, restos)
-- `cv-proofreader-pro` : backoffice FastAPI + frontend léger pour analyse de CV avec LLM
-- `job-auto-applicator` : scraper d’offres + génération automatique de CV personnalisé
 
 ---
 
@@ -56,7 +55,7 @@ Outil IA pour analyser, optimiser et adapter ton CV à une offre avec score de m
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/massylouaddour)
 - ✉️ massyl.ouaddour@gmail.com  
-- 🌍 [Portfolio](https://massylouaddour.fr)
+- 🌍 [Portfolio](https://massylouaddour.fr) (en cours de développement)
 
 ---
 
